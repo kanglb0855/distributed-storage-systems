@@ -1,0 +1,8 @@
+云计算的三种服务模型：
+SaaS software as a service 软件即服务
+PaaS plateform as a service 平台即服务
+IaaS infrastructure as a service 基础设施即服务
+
+SaaS 软件即服务：应用软件主体部署于服务器，可通过瘦客户端设备访问应用程序（Web浏览器，或应用程序接口），web版的GitHub可以算一个
+PaaS 平台即服务：OceanBase类分布式服务软件，由运营商提供访问接口，数据托管在运营商设备上
+IaaS 基础设施即服务：提供形似独立的硬件设备（aws等提供的主机）
