@@ -1,0 +1,3 @@
+开放系统的直连式存储(Direct-Attached Storage，简称DAS)
+直连式存储与服务器主机之间的连接通道通常采用SCSI连接
+SCSI通道将会成为IO瓶颈
